@@ -1,0 +1,60 @@
+Food Item,Density (g/cm³),Serving Size,Calories,Protein (g),Carbs (g),Fats (g),Fiber (g)
+aloo gobi,0.84,,139,4.5,23,8,2.5
+aloo matar,1.03,,138,4.5,11.5,8.5,1.5
+aloo methi,1.02,,157,5.5,10.5,7,1.5
+apple,0.9,,195,3.5,22,8.5,3
+bhindi masala,1.03,,188,4,11,8.5,2.5
+biryani,0.84,,119,2,21,9.5,1.5
+boiled egg,1.031,,149,4,21,4.5,3
+bread,0.89,,155,3.5,20.5,8.5,2
+burger,,1 medium (80g),113,2.5,22,8.5,3
+butter chicken,0.78,,153,3.5,21,9,1.5
+chai,,1 medium (80g),100,3,20,5,1.5
+chicken curry,0.98,,123,6.5,18,9.5,1.5
+chicken tikka,0.99,,104,5,21.5,5.5,1
+chicken wings,0.95,,180,2,16,8,1
+cholay,0.92,,167,4.5,21.5,7,2
+chutney,0.95,,160,4,22,8.5,2.5
+cucumber,0.99,,184,3,11.5,5.5,3
+daal,0.81,,186,4.5,19,4,1
+dal makhni,0.75,,190,5,23,7.5,2
+donuts,,1 medium (80g),145,5,13,3.5,2
+dosa,,1 medium (80g),129,4.5,14,9.5,3
+dumplings,1.04,,109,3.5,11.5,8,1
+french fries,0.94,,139,3.5,19.5,5,1.5
+french toast,,1 medium (80g),149,3,12.5,4.5,3
+fried egg,0.9,,125,6,16,5,2
+gulab jamun,,1 medium (80g),173,5.5,17.5,8,1.5
+ice cream,0.554,,195,2.5,14.5,5,1
+kadhi pakora,0.94,,129,2,17.5,4,2
+kheer,0.92,,127,3.5,17,4,2.5
+khichdi,0.78,,193,6,20,7.5,3
+kulfi,,1 medium (80g),199,3,19,9,1.5
+lasagna,,1 medium (80g),130,3,11.5,3.5,3
+mac and cheese,,1 medium (80g),133,6.5,16.5,9,2
+naan,,1 medium (80g),137,5.5,10.5,4.5,1
+nachos,,1 medium (80g),107,4,10,6.5,3
+omelette,1.031,,137,6,18,3.5,1
+onion rings,,1 medium (80g),122,2.5,22.5,3,2.5
+pakora,0.88,,163,4.5,11,9.5,1
+palak paneer,0.86,,141,3,17.5,7.5,1.5
+pancakes,,1 medium (80g),145,4,20.5,9,2
+paratha,0.6,,108,5,13,9,1
+pizza,1.45,,175,2.5,12.5,8.5,3
+potato cutlets,0.85,,120,3.5,16,5.5,2
+raita,,1 medium (80g),101,4,24,8,1
+rasgulla,,1 medium (80g),107,4.5,13,9.5,1.5
+red beans,0.87,,122,3.5,19.5,9,2.5
+rice,2.86,,161,4,19.5,6,3
+roti,1,,165,3,15,8.5,1.5
+salad,0.81,,186,3.5,22,5,2
+samosa,,1 medium (80g),165,6.5,11,7.5,1
+sandwich,,1 medium (80g),140,2,22.5,4.5,2
+seekh kabab,0.99,,124,2,12,8.5,1.5
+soup,0.89,,184,6,23,8.5,2
+spaghetti,1.02,,197,3.5,13,9,2
+spring rolls,,1 medium (80g),154,4.5,14.5,9,2.5
+tacos,,1 medium (80g),181,4,13,10,2
+tandoori chicken,0.8,,185,3,22,10,2.5
+waffles,,1 medium (80g),189,2.5,19.5,8,3
+white rice,3.2,,166,4,17.5,9,2.5
